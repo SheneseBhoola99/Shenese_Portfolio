@@ -5,5 +5,5 @@ Experience with basic back end development applications which includes Python, S
 Passionate about data driven world.
 
 Link to ny Github Profile:https://shenesebhoola99.github.io/Shenese_Portfolio/
-Link to HyperionDev Data Science Dashboard://https://hypriondev.com.portfolio/46239/
+Link to HyperionDev Data Science Dashboard:https://www.hyperiondev.com/portfolio/36398/
 Email:shenesebhoola35@gmail.com
